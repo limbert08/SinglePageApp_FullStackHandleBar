@@ -1,0 +1,7 @@
+mysql://y0npprekvxy9u7db:a27ax9hrjyl564j0@kavfu5f7pido12mr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/zbl75b0jsusectqu
+
+Property	Value	Action
+Host		kavfu5f7pido12mr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	
+Username	y0npprekvxy9u7db	
+Password	a27ax9hrjyl564j0	
+Port		3306
